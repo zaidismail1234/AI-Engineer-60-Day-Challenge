@@ -31,4 +31,4 @@ Become an AI Engineer / Generative AI Engineer / Python Backend Developer within
 - Multimodal Fake News Detection
 
 ## 🔥 Challenge Status
-Day 0 / 60
+Day 1 / 60
